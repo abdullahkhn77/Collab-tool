@@ -4,8 +4,6 @@
 
 A project collaboration tool designed for team members to track, assigns tasks and interact in realtime.
 
-<b>Demo:</b> https://www.youtube.com/watch?v=cChKLAV4ZJM
-
 <b>Live Site</b> https://teamchat-db052.web.app
 
 <b>
